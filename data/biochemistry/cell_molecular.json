@@ -1,1 +1,202 @@
-
+{
+  "meta": {
+    "title": "Cellular & Molecular Biology"
+  },
+  "questions": [
+    {
+      "text": "<p>A 42-year-old woman comes to the clinic for follow-up evaluation.  She has a 15-year history of resting tremor, bradykinesia, and cogwheel rigidity consistent with Parkinson disease.  One of her siblings recently started having similar symptoms.  As part of a research study, genetic analysis is performed on the patient and the affected sibling.  The results show a loss-of-function mutation that leads to accumulation of misfolded proteins.  Which of the following biochemical processes is most likely defective in this patient?</p>",
+      "choices": [
+        {"id": 1, "text": "Acetylation"},
+        {"id": 2, "text": "Gamma-carboxylation"},
+        {"id": 3, "text": "Glucuronidation"},
+        {"id": 4, "text": "Phosphorylation"},
+        {"id": 5, "text": "Ubiquitination"}
+      ],
+      "correct_choice_id": 5,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Ubiquitin proteasome pathway</div><hr style='border-color:rgba(255,255,255,0.1); margin:10px 0;'><p><img draggable='false' src='https://www.uworld.com/media/highresdefault/L10238.jpg' style='max-width:100%'></p><p><strong>Ubiquitin</strong> is a protein found in eukaryotic cells that is attached to other substrate proteins in a highly regulated process termed ubiquitination.  The proteasome recognizes ubiquitinated proteins and uses ATP energy to drive the proteins through its tubular structure, degrading them into small peptides; attachment of 4 or more ubiquitin monomers is typically required before <strong>proteasomal degradation</strong> can take place.  Ubiquitination plays a role in many cell functions requiring the breakdown of specific proteins, including antigen processing, muscle wasting, cell cycle regulation, and disposal of <strong>misfolded proteins</strong>.</p><p><strong>Impairment</strong> of the ubiquitin-proteasome system can contribute to the development of neurodegenerative disorders (eg, Parkinson disease, Alzheimer disease).  Failure to properly degrade abnormal proteins can cause <strong>aggregation</strong> of misfolded proteins and eventual obstruction of intracellular molecular traffic, leading to cell death.  Mutations in genes involved in the ubiquitin-proteasome system (eg, <em>Parkin</em>, <em>PINK1</em>, and <em>DJ-1</em>) are associated with autosomal recessive forms of <strong>Parkinson disease</strong> that have an early age of onset (age &lt;50).</p><p><strong>(Choice A)</strong>  Heterochromatin refers to condensed DNA that has a low level of transcriptional activity, whereas euchromatin (loosely arranged) has high levels of transcriptional activity.  Histone acetylation promotes the formation of euchromatin; this process is impaired in Huntington disease, but is unrelated to the pathogenesis of Parkinson disease.</p><p><strong>(Choice B)</strong>  Vitamin K–dependent gamma-carboxylation is critical for the functioning of clotting factors II, VII, IX, and X and of anticoagulative proteins C and S.  Warfarin inhibits reduction of vitamin K to its active form, which in turn prevents carboxylation of vitamin K–dependent clotting factors.</p><p><strong>(Choice C)</strong>  One step in the hepatic processing of bilirubin includes bilirubin conjugation with glucuronic acid in the endoplasmic reticulum.  Patients with Crigler-Najjar syndrome lack the enzyme needed to catalyze bilirubin glucuronidation, causing severe unconjugated hyperbilirubinemia.</p><p><strong>(Choice D)</strong>  Phosphorylation, or the addition of a phosphate group (PO<sub>4</sub><sup>3−</sup>) to a protein or other organic molecule, is commonly involved in the regulation of enzymatic activity.  Hyperphosphorylation of tau proteins can contribute to abnormal protein aggregation in Alzheimer disease, not Parkinson disease.</p><p><strong>Educational objective:</strong><br>Ubiquitin is a protein that undergoes attachment to other proteins, labeling them for degradation by proteasomes.  Impairment of the ubiquitin-proteasome system leads to the accumulation of misfolded proteins, which can contribute to the development of neurodegenerative disorders (eg, Parkinson disease).</p>"
+    },
+    {
+      "text": "<p>A 54-year-old woman is evaluated for progressive constipation, anorexia, and a 5.4-kg (12-lb) weight loss over the past several months.  Physical examination is unremarkable.  Stool guaiac test is positive, and a colonoscopy is performed.  An exophytic mass is identified in the sigmoid colon.  The patient undergoes a left hemicolectomy, and histopathology of the surgical specimen is positive for adenocarcinoma.  Molecular testing of the cancer cells reveals a mutation in the <em>KRAS</em> gene that results in constitutive activation of the Ras protein.  Under normal circumstances, this protein is only active when bound to which of the following substances?</p>",
+      "choices": [
+        {"id": 1, "text": "ATP"},
+        {"id": 2, "text": "Ca2+"},
+        {"id": 3, "text": "cAMP"},
+        {"id": 4, "text": "GTP"},
+        {"id": 5, "text": "IP3"}
+      ],
+      "correct_choice_id": 4,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Colorectal polyps and cancer</div><hr style='border-color:rgba(255,255,255,0.1); margin:10px 0;'><p><img src='https://www.uworld.com/media/RasProtein.gif' style='max-width:100%'></p><p><em><strong>RAS</strong></em> genes code for a family of small G-proteins involved in signal transduction in the Ras-MAPK pathway.  Ras proteins exist in 2 different states: an <strong>inactive GDP-bound state</strong> and an <strong>active GTP-bound state</strong>.  Ras becomes activated when a growth factor ligand binds to a <strong>receptor tyrosine kinase</strong> located on the cell membrane, causing autophosphorylation of the receptor.  This triggers binding of adaptor proteins that interact with Ras, promoting GDP removal and GTP binding.  Activated Ras then begins a phosphorylation cascade that results in the activation of <strong>mitogen-activated protein kinase (MAPK)</strong>, which enters the nucleus to influence gene transcription.</p><p>Ras proteins have intrinsic GTPase activity that allows them to hydrolyze GTP; this mechanism prevents accumulation of active Ras (GTP-bound) in the absence of hormonal signaling.  <em>RAS</em> gene mutations can lead to decreased intrinsic GTPase activity; this results in a constitutively activated Ras protein that causes constant and unregulated cell proliferation.  <em>RAS</em> mutations are commonly identified in cancerous tumors, specifically colorectal and pancreatic malignancies.</p><p><strong>(Choices A and C)</strong>  ATP serves as a phosphate source for kinase-dependent phosphorylation reactions involved in numerous intracellular signaling pathways.  It is also used as a substrate to produce cyclic AMP (cAMP) in the cAMP second messenger system.</p><p><strong>(Choice B)</strong>  Ca<sup>2+</sup> is important for cell signaling as its intracellular presence alters the function of many proteins and enzymes.  Ca<sup>2+</sup> is required for many basic physiologic activities including apoptosis, muscular contraction, and neuronal transmission.</p><p><strong>(Choice E)</strong>  IP<sub>3</sub> is the water-soluble component of the IP<sub>3</sub>/DAG second messenger system.  IP<sub>3</sub> acts on the endoplasmic reticulum to cause intracellular Ca<sup>2+</sup> release while DAG remains in the cell membrane and activates membrane-bound protein kinases.</p><p><strong>Educational objective:</strong><br>Regulation of the Ras-MAPK signal transduction pathway requires a balance between active (GTP-bound) and inactive (GDP-bound) Ras proteins.  <em>RAS</em> gene mutations, which result in constitutively activated Ras proteins, are implicated in the development of malignant tumors.</p>"
+    },
+    {
+      "text": "<p>A 9-month-old boy is brought to the clinic for a routine follow-up.  His mother is concerned because the patient is not yet able to sit up unsupported.  He was born at term and has had muscle weakness since birth.  Vital signs are normal.  The patient is alert but has diminished tone.  Examination shows a prominent forehead with a depressed nasal bridge.  Eye examination shows epicanthal folds.  Analysis of lysosomal acid hydrolases shows an increased concentration within the serum and a decreased level within the cultured skin fibroblast cells.  This patient most likely has a defect in which of the following steps of enzyme production?</p>",
+      "choices": [
+        {"id": 1, "text": "DNA methylation"},
+        {"id": 2, "text": "Posttranslational modification"},
+        {"id": 3, "text": "Protein folding"},
+        {"id": 4, "text": "Splicing"},
+        {"id": 5, "text": "Translation"}
+      ],
+      "correct_choice_id": 2,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Lysosomal storage disorder</div><hr><p><img src='https://www.uworld.com/media/L29085.jpg' style='max-width:100%'></p><p>Protein synthesis is a process involving the following steps: transcription, posttranscriptional modification (splicing, 5' cap, poly-A tail), translation, folding, and <strong>posttranslational modification</strong> and trafficking. An error can occur at any stage. <strong>Inclusion cell (I-cell) disease</strong> is a defect in posttranslational modification in the Golgi body. Normally, proteins designated for lysosomes are tagged with mannose-6-phosphate. However, in I-cell disease, a defect in a phosphotransferase enzyme prevents phosphorylation of mannose. <strong>Lysosomal acid hydrolases</strong> are therefore transported inappropriately to the extracellular space, causing an increase in serum concentration and a decrease in intracellular concentration, as seen in this patient. Without acid hydrolases to degrade cellular debris within lysosomes, the waste products accumulate and form inclusion bodies. I-cell disease presents in infancy with features similar to Hurler syndrome, including skeletal abnormalities, developmental delay, cloudy corneas, and recurrent respiratory infections. I-cell disease is generally fatal in childhood.</p><p><strong>(Choice A)</strong> DNA methylation silences gene transcription so that the affected protein would be completely absent. <strong>(Choice C)</strong> A defect in protein folding, as seen with the CFTR protein in cystic fibrosis, would result in abnormal protein functioning. Protein concentration may be normal or low due to more rapid degradation. <strong>(Choices D and E)</strong> Splicing mutations can result in inappropriate removal of exons or persistence of introns; this creates aberrant mRNA that is presented for translation and results in production of an abnormal protein. Similarly, a defect in translation results in insufficient or abnormal protein synthesis, which is reflected both in the serum and intracellularly.</p><p><strong>Educational objective:</strong> Posttranslational modification of proteins is important for targeting proteins to the correct location. This step is defective in I-cell disease, which is characterized by a lack of mannose residue phosphorylation, resulting in inappropriate trafficking of acid hydrolases to the extracellular space instead of to lysosomes.</p>"
+    },
+    {
+      "text": "<p>Molecular biologists studying signal transduction apply an agent to human cells that activates G-protein- dependent phospholipase C.  Which of the following intracellular substances is most likely to increase immediately after exposure to this agent?</p>",
+      "choices": [
+        {"id": 1, "text": "Ca2+"},
+        {"id": 2, "text": "cAMP"},
+        {"id": 3, "text": "cGMP"},
+        {"id": 4, "text": "Cl-"},
+        {"id": 5, "text": "mRNA"},
+        {"id": 6, "text": "NO"}
+      ],
+      "correct_choice_id": 1,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Signal transduction</div><hr><p><img src='https://www.uworld.com/media/L23797.png' style='max-width:100%'></p><p>A variety of hormone receptors exert their intracellular effects via the <strong>phosphoinositol system</strong>. Examples include α1-adrenergic, M1 and M3 cholinergic, V1 (vasopressin), H1 (histamine), oxytocin, angiotensin II, TRH, and GnRH receptors. This pathway proceeds through: (1) Ligand binding causes exchange of GDP for GTP on the α-subunit of a Gq-protein, activating phospholipase C (PLC). (2) PLC hydrolyzes PIP2 into DAG and IP3. (3) DAG stimulates protein kinase C (PKC), but the major activator of PKC is increased intracellular Ca2+ that occurs due to IP3-mediated release of intracellular Ca2+ stores from the endoplasmic reticulum. PKC is the major effector molecule.</p><p><strong>(Choices B and C)</strong> cAMP and cGMP increase during activation of adenylate or guanylate cyclase. <strong>(Choice D)</strong> Cl- increases after inhibitory neurotransmitters (GABA, glycine). <strong>(Choice E)</strong> mRNA increases during elevated protein synthesis. <strong>(Choice F)</strong> Nitric oxide (NO) is a paracrine signaling molecule synthesized from arginine by NO-synthase.</p><p><strong>Educational objective:</strong> The phosphoinositol second messenger system activates PLC, producing IP3 which increases intracellular Ca2+.</p>"
+    },
+    {
+      "text": "<p>Researchers lyse human cells and isolate a specific messenger RNA template using gel electrophoresis.  Reverse transcription polymerase chain reaction is then used to synthesize complementary DNA (cDNA) from the RNA template.  Next, the cDNA is modified into an expression vector containing an optimized bacterial promoter, ribosomal binding site, and terminator sequence.  After insertion of the vector into appropriate bacterial hosts, the transformed bacteria are cultured in a bioreactor and produce large quantities of a protein containing a domain that binds to a specific DNA sequence.  This protein is most likely the receptor for which of the following hormones?</p>",
+      "choices": [
+        {"id": 1, "text": "Glucagon"},
+        {"id": 2, "text": "Growth hormone"},
+        {"id": 3, "text": "Insulin"},
+        {"id": 4, "text": "Insulin-like growth factor"},
+        {"id": 5, "text": "Parathyroid hormone"},
+        {"id": 6, "text": "Progesterone"}
+      ],
+      "correct_choice_id": 6,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Hormone receptor</div><hr><p><img src='https://www.uworld.com/media/L28028.jpg' style='max-width:100%'></p><p>Expression cloning uses prokaryotic elements (promoter, ribosomal binding site) to express eukaryotic cDNA in bacteria. The protein produced contains a DNA-binding domain. DNA-binding proteins include transcription factors, steroid receptors (cortisol, aldosterone, progesterone), thyroid hormone receptor, and fat-soluble vitamin receptors. Among the choices, only the progesterone receptor binds DNA. Steroid receptors are cytoplasmic and translocate to nucleus upon ligand binding, attaching to hormone response elements. <strong>(Choices A and E)</strong> Glucagon and PTH act on Gs protein-coupled receptors. <strong>(Choice B)</strong> Growth hormone receptor is membrane-bound and activates JAK-STAT. <strong>(Choices C and D)</strong> Insulin and IGF-1 receptors have intrinsic tyrosine kinase activity.</p><p><strong>Educational objective:</strong> DNA-binding proteins include steroid receptors (e.g., progesterone).</p>"
+    },
+    {
+      "text": "<p>A 69-year-old woman with Alzheimer disease is brought to the emergency department after getting lost while taking a walk in her neighborhood.  Her son has been unable to contact the patient for the last 2 days, and today the police found her wandering in a park.  The patient says that she drank water from a park fountain but has not had anything to eat for over 24 hours.  On physical examination, she is mildly confused with dry mucous membranes.  Laboratory studies show a blood glucose level of 92 mg/dL.  Which of the following hormones binds to an intracellular receptor to help maintain this patient's laboratory findings within the normal range?</p>",
+      "choices": [
+        {"id": 1, "text": "Cortisol"},
+        {"id": 2, "text": "Epinephrine"},
+        {"id": 3, "text": "Glucagon"},
+        {"id": 4, "text": "Growth hormone"},
+        {"id": 5, "text": "Insulin"},
+        {"id": 6, "text": "Norepinephrine"}
+      ],
+      "correct_choice_id": 1,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Gluconeogenesis</div><hr><p><img src='https://www.uworld.com/media/L24024.jpg' style='max-width:100%'></p><p>This patient has experienced a prolonged fast, but her blood glucose is normal. As glucose falls, counterregulatory hormones (glucagon, epinephrine) are secreted acutely. As the fast continues, secretion of cortisol and growth hormone increases. Cortisol binds to an intracellular cytoplasmic receptor (associated with heat shock proteins). Binding releases heat shock proteins, allowing receptor dimerization and translocation to the nucleus, where it binds DNA and increases transcription of gluconeogenic enzymes, lipolysis, and proteolysis. <strong>(Choices B, C, F)</strong> Catecholamines and glucagon act via transmembrane G protein-coupled receptors. <strong>(Choice D)</strong> Growth hormone acts via JAK-STAT. <strong>(Choice E)</strong> Insulin acts via tyrosine kinase receptor.</p><p><strong>Educational objective:</strong> Cortisol is a steroid hormone that binds to an intracellular receptor and acts as a transcription factor to maintain glucose during prolonged fasting.</p>"
+    },
+    {
+      "text": "<p>Molecular biologists perform a series of experiments to characterize the electrophysiologic properties of human muscle cells.  The resting membrane potential for an isolated muscle cell is determined to be -70 mV.  The equilibrium potentials for important ions under normal physiologic conditions are as follows: E<sub>Na</sub> = +60 mV, E<sub>K</sub> = -90 mV, E<sub>Cl</sub> = -75 mV, E<sub>Ca</sub> = +125 mV, E<sub>Mg</sub> = 0 mV. If physiologic conditions are maintained, which of the following ions would most likely flow out of the cell after opening of their respective ion channels?</p>",
+      "choices": [
+        {"id": 1, "text": "Magnesium and calcium"},
+        {"id": 2, "text": "Magnesium and chloride"},
+        {"id": 3, "text": "Potassium and chloride"},
+        {"id": 4, "text": "Potassium only"},
+        {"id": 5, "text": "Sodium and calcium"}
+      ],
+      "correct_choice_id": 4,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Resting membrane potential</div><hr><p>At resting potential -70 mV, ions flow to bring membrane potential toward their equilibrium potential. K+ equilibrium potential is -90 mV (more negative), so opening K+ channels drives K+ efflux (out of cell). Na+ (E=+60) would flow in, Cl- (E=-75) would flow in (since -70 > -75, inward gradient), Ca2+ (E=+125) flows in. Only K+ flows out.</p><p><strong>Educational objective:</strong> When an ion channel opens, ions move to bring membrane potential closer to that ion's equilibrium potential. At -70 mV, K+ exits.</p>"
+    },
+    {
+      "text": "<p>Two graphs illustrating the transport rate of solutes across the plasma membrane are shown on the slide below. (line 1 flattens, line 2 linear). Which of the following best explains the difference in the shape of the curves?</p>",
+      "choices": [
+        {"id": 1, "text": "Different amounts of membrane surface area for diffusion"},
+        {"id": 2, "text": "Different degrees of membrane thickness"},
+        {"id": 3, "text": "The 2 solutes have different molecular weights"},
+        {"id": 4, "text": "The 2 solutes have different oil/water partition coefficients"},
+        {"id": 5, "text": "The presence of a protein transporter"}
+      ],
+      "correct_choice_id": 5,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Cellular transports</div><hr><p><img src='https://www.uworld.com/media/L10178.jpg' style='max-width:100%'></p><p>Line 1 shows saturation kinetics (carrier-mediated transport, e.g., facilitated diffusion or active transport). Line 2 shows simple diffusion (linear). Saturation occurs due to finite number of protein transporters. Other factors (surface area, thickness, molecular weight, lipid solubility) affect slope but do not cause saturation.</p><p><strong>Educational objective:</strong> Carrier-mediated transport saturates at high substrate concentrations due to limited transporters.</p>"
+    },
+    {
+      "text": "<p>A 68-year-old man comes to the office due to an enlarging mole on his right forearm.  The patient is a retired farmer and received a significant amount of sun exposure over the course of his life.  On examination, he has a black-brown macular lesion on the dorsum of his right forearm measuring approximately 1 cm in diameter with an irregular border.  Excisional biopsy is performed and histopathology reveals malignant melanoma.  Immunohistochemical analysis indicates that the malignant cells have decreased integrin expression.  These cells are most likely to exhibit poor adhesion to which of the following components of the extracellular matrix?</p>",
+      "choices": [
+        {"id": 1, "text": "Actin"},
+        {"id": 2, "text": "Fibronectin"},
+        {"id": 3, "text": "Hyaluronic acid"},
+        {"id": 4, "text": "Keratan sulfate"},
+        {"id": 5, "text": "Keratin"}
+      ],
+      "correct_choice_id": 2,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Cell adhesion molecules</div><hr><p><img src='https://www.uworld.com/media/L28229.jpg' style='max-width:100%'></p><p>Integrins are transmembrane receptors that bind extracellular matrix proteins like fibronectin, collagen, and laminin. Decreased integrin leads to poor adhesion to fibronectin. Actin and keratin are intracellular. Hyaluronic acid and keratan sulfate are glycosaminoglycans not bound by integrins.</p><p><strong>Educational objective:</strong> Integrins mediate adhesion to fibronectin, collagen, laminin.</p>"
+    },
+    {
+      "text": "<p>Biologists investigating the morphologic changes associated with reversible cellular injury perform a procedure on anesthetized mice to assess the effects of transient hepatic ischemia.  During the experiment, they clamp the hepatic artery and obtain liver biopsy samples at varying intervals.  The samples are then examined by electron microscopy.  Cells that are exposed to longer ischemic periods are found to have reduced numbers of ribosomes attached to the endoplasmic reticulum.  This structural change is most likely to impair which of the following cellular functions?</p>",
+      "choices": [
+        {"id": 1, "text": "ATP production"},
+        {"id": 2, "text": "Drug detoxification"},
+        {"id": 3, "text": "Synthesis of cell membrane proteins"},
+        {"id": 4, "text": "Synthesis of cytosolic proteins"},
+        {"id": 5, "text": "Synthesis of steroid hormones"}
+      ],
+      "correct_choice_id": 3,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Protein synthesis</div><hr><p><img src='https://www.uworld.com/media/L24738.jpg' style='max-width:100%'></p><p>Rough ER (RER) has attached ribosomes that synthesize secretory proteins, integral membrane proteins, and lysosomal proteins. Loss of RER ribosomes impairs synthesis of cell membrane proteins (integral). Free ribosomes make cytosolic proteins. Smooth ER does detoxification and steroid synthesis. ATP from mitochondria/cytosol.</p><p><strong>Educational objective:</strong> RER synthesizes membrane and secreted proteins.</p>"
+    },
+    {
+      "text": "<p>Researchers analyzing eukaryotic genome structure and function perform an experiment to extract DNA from exocrine pancreatic cells.  During the purification process, they isolate small circular DNA molecules that resemble a bacterial chromosome.  Further analysis shows that these molecules code for proteins, transfer RNA, and ribosomal RNA.  From which of the following cellular structures did these DNA molecules most likely originate?</p><p><img src='https://www.uworld.com/media/L17595.jpg' style='max-width:200px'></p>",
+      "choices": [
+        {"id": 1, "text": "A"},
+        {"id": 2, "text": "B"},
+        {"id": 3, "text": "C"},
+        {"id": 4, "text": "D"},
+        {"id": 5, "text": "E"}
+      ],
+      "correct_choice_id": 4,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Mitochondrial disorders</div><hr><p><img src='https://www.uworld.com/media/L64207.jpg' style='max-width:100%'></p><p>Mitochondrial DNA (mtDNA) is circular, maternally inherited, and encodes proteins, tRNA, rRNA. In electron microscopy, mitochondria (D) have double membrane and cristae. A=RER, B=nucleolus, C=euchromatin, E=secretory granule.</p><p><strong>Educational objective:</strong> mtDNA is circular and found in mitochondria.</p>"
+    },
+    {
+      "text": "<p>Foreign antigen recognition at the cell surface by cytotoxic T-lymphocytes stimulates a response that results in rapid cell death.  Which of the following act as effectors of this response?</p>",
+      "choices": [
+        {"id": 1, "text": "Matrix metalloproteinases"},
+        {"id": 2, "text": "Acid hydrolases"},
+        {"id": 3, "text": "Caspases"},
+        {"id": 4, "text": "Phospholipase A2"},
+        {"id": 5, "text": "Protein kinase A"}
+      ],
+      "correct_choice_id": 3,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Cell mediated immunity</div><hr><p>Apoptosis is triggered by CTL via granzyme/perforin or Fas/FasL, activating caspases. Caspases are proteases that cleave cellular components. Metalloproteinases degrade ECM; acid hydrolases in lysosomes; PLA2 produces arachidonic acid; PKA is involved in cAMP signaling.</p><p><strong>Educational objective:</strong> Caspases are effectors of apoptosis.</p>"
+    },
+    {
+      "text": "<p>The resting membrane potential for an isolated muscle cell is -70 mV.  Equilibrium potentials for important ions are given below:</p><blockquote><p>E<sub>Na</sub> = + 60 mV<br>E<sub>K</sub> = - 80 mV<br>E<sub>Cl</sub> = - 70 mV<br>E<sub>Ca</sub> = + 125 mV</p></blockquote><p>Which of the following most likely forms the resting membrane potential of the cell?</p>",
+      "choices": [
+        {"id": 1, "text": "High potassium conductance and some sodium conductance"},
+        {"id": 2, "text": "High chloride conductance and some sodium conductance"},
+        {"id": 3, "text": "High calcium conductance and some chloride conductance"},
+        {"id": 4, "text": "High potassium conductance and some chloride conductance"},
+        {"id": 5, "text": "High potassium conductance only"}
+      ],
+      "correct_choice_id": 1,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Resting membrane potential and action potential</div><hr><p>Resting potential is determined by ions with highest permeability. At rest, K+ conductance is high (drives potential toward E_K = -80), and small Na+ conductance (drives toward +60) brings it to -70. Cl- equilibrium is -70, but its conductance is low and it distributes passively. High K+ alone would give -80; combination with small Na+ gives -70.</p><p><strong>Educational objective:</strong> Resting potential ≈ combination of K+ (dominant) and small Na+ permeability.</p>"
+    },
+    {
+      "text": "<p>Biochemists working for a national endocrinology institute are investigating the specifics underlying glucose transport across adipose cell membranes.  One of their experiments shows that, in the presence of insulin, D-glucose transport across the plasma membrane of adipocytes is much faster than L-glucose transport.  Which of the following transport processes best describes the mechanism for glucose entry into these cells?</p>",
+      "choices": [
+        {"id": 1, "text": "Simple diffusion"},
+        {"id": 2, "text": "Receptor-mediated endocytosis"},
+        {"id": 3, "text": "Carrier-mediated transport"},
+        {"id": 4, "text": "Primary active transport"},
+        {"id": 5, "text": "Co-transport"}
+      ],
+      "correct_choice_id": 3,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Cellular transports</div><hr><p><img src='https://www.uworld.com/media/L10186.png' style='max-width:100%'></p><p>Glucose enters via facilitated diffusion (carrier-mediated) through GLUT transporters, which are stereoselective (D-glucose but not L-glucose). Insulin increases GLUT4 in membrane. Simple diffusion is not stereoselective. Endocytosis involves vesicles. Active transport (primary or secondary) moves against gradient; not the case here.</p><p><strong>Educational objective:</strong> Facilitated diffusion is carrier-mediated and stereoselective.</p>"
+    },
+    {
+      "text": "<p>A 14-year-old boy is brought to the emergency department after accidental ingestion of a chicken bone that lodged in his esophagus.  Upper endoscopy is performed and the bone is successfully removed.  However, the patient is incidentally found to have mild hypercalcemia on laboratory testing.  On follow-up with his primary care provider 2 weeks later, he has no symptoms and clinical examination is unremarkable.  Further questioning reveals that several of his family members also have mild hypercalcemia.  Subsequent laboratory studies show a borderline high parathyroid hormone concentration, very low urinary calcium level, and normal 25-hydroxyvitamin D level.  A mutation in which of the following receptors is most likely responsible for this patient's laboratory abnormalities?</p>",
+      "choices": [
+        {"id": 1, "text": "Intracellular receptor with a DNA-binding domain"},
+        {"id": 2, "text": "Membrane-bound receptor coupled with a G protein"},
+        {"id": 3, "text": "Transmembrane ligand-gated ion channel"},
+        {"id": 4, "text": "Transmembrane receptor associated with intrinsic tyrosine kinase activity"},
+        {"id": 5, "text": "Transmembrane receptor causing activation of Janus kinase/STAT pathway"}
+      ],
+      "correct_choice_id": 2,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Hypercalcemia</div><hr><p><img src='https://www.uworld.com/media/L25396.jpg' style='max-width:100%'></p><p>Familial hypocalciuric hypercalcemia (FHH) is due to inactivating mutation in calcium-sensing receptor (CaSR), a G protein-coupled receptor (Gq). It leads to higher set point for PTH suppression, causing mild hypercalcemia, low urine calcium. Other options: (A) steroid/thyroid hormone receptors; (C) ion channels; (D) insulin/IGF-1; (E) cytokine receptors.</p><p><strong>Educational objective:</strong> CaSR is a G protein-coupled receptor; mutations cause FHH.</p>"
+    },
+    {
+      "text": "<p>Researchers are working to identify new targets for drug development to treat idiopathic pulmonary fibrosis.  After obtaining lung tissue samples from affected patients, they conduct a series of experiments to measure the expression and activity of various profibrotic proteins.  The results for one such protein, galectin-3, are as follows:</p><table border='0'><tr><td>mRNA concentration</td><td>normal</td></tr><tr><td>Protein concentration</td><td>increased</td></tr><tr><td>Protein activity</td><td>intact</td></tr></table><p>Which of the following processes best explains these findings?</p>",
+      "choices": [
+        {"id": 1, "text": "Mutation in the Galectin-3 promotor region"},
+        {"id": 2, "text": "Decreased methylation of the Galectin-3 gene"},
+        {"id": 3, "text": "Shortening of the Galectin-3 mRNA poly-(A) tail"},
+        {"id": 4, "text": "Decreased ubiquitination of the Galectin-3 protein"},
+        {"id": 5, "text": "Hyperphosphorylation of the Galectin- 3 protein"}
+      ],
+      "correct_choice_id": 4,
+      "solution": "<div style='margin-bottom:10px; font-size:0.85em; opacity:0.7;'>Biochemistry > Biochemistry (General Principles) > Ubiquitin proteasome pathway</div><hr><p>Normal mRNA with increased protein suggests decreased degradation. Ubiquitination targets proteins for proteasomal degradation; decreased ubiquitination increases protein half-life without changing mRNA. Promoter/methylation affect transcription (alter mRNA). Poly-A tail shortening decreases mRNA stability. Hyperphosphorylation alters activity, not necessarily abundance.</p><p><strong>Educational objective:</strong> Reduced ubiquitination increases protein abundance without changing mRNA.</p>"
+    }
+  ]
+}
